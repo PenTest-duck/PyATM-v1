@@ -66,5 +66,3 @@ while 1:
         sys.exit()
     else:
         continue
-    
-    f.close()
